@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Matrix
-=======
 # Matrix reader
 # Description
 It is a console application that allows you to perform various operations on arrays. The program is designed with simplicity and functionality in mind, providing users with an intuitive interface for entering and manipulating matrix data..<br>
@@ -16,4 +13,3 @@ It is a console application that allows you to perform various operations on arr
 - **Java**
 - **jUnit**
 - **Log4j**
->>>>>>> dce3b6ee2d15484b92d137f3ea271ddee859ee10
